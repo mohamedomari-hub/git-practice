@@ -1,5 +1,8 @@
-Name: Ironhacker
+Name: Reda
 Age: 25
 Date of birth: 2001
-Favorite Color: Yellow/ Red.
+Favorite Color: Bleu / Green.
 Hobby: Soccer
+Nationality: German/Moroccan
+
+<p><<<<<<< HEAD Search feature placeholder text ======= Improved search feature text >>>>>>> feature/search</p>
